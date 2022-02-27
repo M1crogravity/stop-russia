@@ -20,4 +20,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ${{ github.repository }}:latest,${{ github.repository }}:v${{ github.run_number }}
+          tags: m1crogravity/stop-russia:latest,m1crogravity/stop-russia:v${{ github.run_number }}
