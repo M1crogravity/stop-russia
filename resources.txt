@@ -1,8 +1,5 @@
-194.54.14.186:53/UDP
-194.54.14.187:53/UDP
-194.67.7.1:53/UDP
-194.67.2.109:53/UDP
-https://3dsec.sberbank.ru:443
-185.157.96.191:53/UDP
-185.157.96.191
-185.157.96.191:443
+https://www.gosuslugi.ru
+https://gosuslugi41.ru
+https://uslugi27.ru
+https://gosuslugi29.ru
+https://gosuslugi.astrobl.ru
