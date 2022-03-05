@@ -1,3 +1,16 @@
 178.248.233.32:80
 178.248.233.32:443
 178.248.236.20:53/UDP
+Transneft.ru
+Tektorg.ru
+Rosneft.com
+Lukoil.com
+Gazprom.ru
+B2b.sibur.ru
+Onlinecontract.ru
+Eurochemgroup.com
+Uralchem.com
+Tatneft.ru
+Nlmk.com
+Acron.ru
+aaa-srt-apps.lukoil.com
