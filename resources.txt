@@ -1,1 +1,4 @@
-https://savelife.pw/
+savelife.pw
+savelife.pw:443
+savelife.pw:8080/TCP
+savelife.pw:8443/TCP
