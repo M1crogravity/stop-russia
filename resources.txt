@@ -1,2 +1,4 @@
-193.228.161.92:21/TCP
-193.228.161.96:21/TCP
+lukoil.com
+https://www.gazprom.ru
+nlmk.com
+tektorg.ru
