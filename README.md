@@ -1,3 +1,4 @@
+
 # Stop russian aggression
 
 Be here to stop Russian propaganda.
@@ -9,9 +10,11 @@ https://docs.docker.com/get-docker/
 
 Після цього запустити одну команду у терміналі:
 
-```shell
+---
+```markdown
 docker run -ti --rm abagayev/stop-russia
 ```
+---
 
 ### Запуск у хмарі
 
